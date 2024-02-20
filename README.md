@@ -1,9 +1,6 @@
 <h1 align="center">
 	Olá, meu nome é Lorenzo.
 </h1>
-<p align="center">
-    <img src="https://i.imgur.com/K5P22VM.gif" width="350" height="350" alt="https://github.com/lorenzomonteiros"/>
-</p>
 <h2 align="center">
 	<img src="https://media.tenor.com/akBy6qWGjs4AAAAi/peach-cat-mochi-peach-cat.gif" width="50"/>
 	Sou um estudante de programação que está aprendendo de pouco em pouco.
